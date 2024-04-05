@@ -1,0 +1,7 @@
+.git
+node_modules
+.env
+__pycache__
+pybackend/.ipynb_checkpoints/
+package-lock.json
+dist
