@@ -11,5 +11,5 @@ EXPOSE 5000
 # Define environment variable
 ENV FLASK_APP=app.py
 
-CMD ["sleep", "infinity"]
-# CMD ["flask", "run", "--host=0.0.0.0"]
+# CMD ["sleep", "infinity"]
+CMD ["flask", "run", "--host=0.0.0.0"]
